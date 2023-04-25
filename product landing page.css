@@ -1,0 +1,26 @@
+#header-img{width: 150px;height:150px; border:1px solid brown;border-radius:80px;}
+#footer{text-align:center;}
+#nav-bar{text-align:right;position:fixed;top:0;left:60%; font-size:25px;background-color:white ;border-radius:5px;border:1px solid black }
+a{text-decoration:none; color:black; padding:20px;font-family:Arial, sans-serif;}
+.div-main{text-align:center;}
+@media all screen{header{
+  width:250px; 
+}}
+#pricing{display:inline-block; text-align:center;}
+
+.a1{float:left; color:black;font-family:Cursive;border-radius:30px; display:inline-block; border:2px solid black; width:250px; height:280px;
+background-color:white }
+.a2{float:center; color:black;font-family:Cursive;border-radius:30px; display:inline-block;width:250px;  border:2px solid black;height:280px;background-color:white}
+.a3{float:right; color:black;font-family:Cursive;border-radius:30px; display:inline-block;width:250px;  border:2px solid black;height:280px;background-color:white}
+html{background-image:url(https://static.wixstatic.com/media/af4d15_3fa73a41223a49c285dfb53438c543b0~mv2.jpg/v1/crop/x_71,y_170,w_606,h_739/fill/w_584,h_706,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/IMG_29F40CDAECC4-1_edited_edited.jpg);background-size: cover;background-blend-mode: overlay;background-color: rgb(0,0,0,0.6); background-attachment: fixed ;color:white;}
+#how-it-works{display:flex;justify-content: center;
+}
+h3{background-color:rgb(250, 218, 218); height:80px;}
+#fs{background-color:rgb(234, 206, 172); font-family:Cursive; font-weight:bold;width:100px; height:50px;border:1px solid brown; border-radius:20px;font-size:20px; color:brown}
+#email{border:2px solid black; border-radius:10px;width:200px;height:30px;font-family:Cursive; }
+#submit{ font-family:Cursive; font-weight:bold;width:150px; height:50px;border:1px solid brown; border-radius:20px;font-size:20px;}
+.cr{text-align:center;font-size:17px;font-family:Cursive;}
+.nav-l{ text-align:right;align-text:right;font-family:cursive;color:white;}
+h1{font-family:Cursive; }
+p{font-family:Cursive;}
+#video{border-radius:10px}
